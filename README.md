@@ -2,3 +2,4 @@
 
 - Adam
 - Coleen McKay
+- Sanika
