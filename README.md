@@ -6,4 +6,6 @@
 - Sanika
 - Mitchell Woods
 - Marco Andres Munoz
+- Xiaoxin Wang
+- SHERRY
 
