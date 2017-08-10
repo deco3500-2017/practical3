@@ -7,4 +7,5 @@
 - Mitchell Woods
 - Xiaoxin Wang
 - SHERRY
+- Haoxuan Yang
 
