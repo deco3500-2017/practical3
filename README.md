@@ -6,4 +6,5 @@
 - Sanika
 - Mitchell Woods
 - Xiaoxin Wang
+- SHERRY
 
