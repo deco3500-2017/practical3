@@ -5,4 +5,5 @@
 - Coleen McKay
 - Sanika
 - Mitchell Woods
+- Xiaoxin Wang
 
