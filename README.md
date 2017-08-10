@@ -5,7 +5,7 @@
 - Coleen McKay
 - Sanika
 - Mitchell Woods
-- Marco Andres Munoz2
+- Marco Andres Munoz
 - Xiaoxin Wang
 - SHERRY
 - Haoxuan Yang
